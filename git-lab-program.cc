@@ -2,7 +2,7 @@
  *        File: git-lab-program.cc
  *      Author: Caleb McCoy
  *        Date: 9/7/23
- * Description: Add Description
+ * Description: This program prints a message to the screen
  */
 
 #include <iostream>
